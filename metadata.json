@@ -1,0 +1,5 @@
+{
+  "name": "Arrow Rush H5",
+  "description": "A high-speed infinite runner where you control an arrow, dodging death blocks and collecting math modifiers to maximize your score. Features high-score tracking and responsive controls.",
+  "requestFramePermissions": []
+}
